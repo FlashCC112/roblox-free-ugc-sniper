@@ -80,7 +80,7 @@ def buy(json, itemid, productid):
 # Get collectible and product id for all the limiteds.
 Thread(target=get_x_token).start()
 
-print("UGC Sniper made by Jeldo#9587\nDiscord server: https://discord.com/invite/3Uvcf8d9aY")
+print("UGC Sniper made by Jeldo#9587 and modifications done by pompompurin#9999 \nDiscord server: https://discord.gg/XX6qtbvkHG")
 while x_token == "":
     time.sleep(0.01)
 
