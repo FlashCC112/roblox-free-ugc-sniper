@@ -45,6 +45,7 @@ And your done!
 
 ### Step 4
 You need to put in your discord webhook into the config.json file.
+https://www.youtube.com/watch?v=fKksxz2Gdnc
 
 (if you want to skip this step, go to step 5 and leave the discordWebhook in config.json as it is)
 
