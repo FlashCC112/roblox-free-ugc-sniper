@@ -1,6 +1,6 @@
 
 # [UGC Sniper]((https://discord.gg/3Uvcf8d9aY))
-A free UGC sniper bot for roblox that sniper free limiteds.
+A free UGC sniper bot for Robox that snipes free UGC limiteds.
 
 ## Credits
 1. J3ldo for being the original guy
@@ -15,9 +15,10 @@ A free UGC sniper bot for roblox that sniper free limiteds.
 2. [Premium](https://github.com/ppompompurin/roblox-free-ugc-sniper#Premium)
 3. [Features](https://github.com/ppompompurin/roblox-free-ugc-sniper#features)
 4. [How to use](https://github.com/ppompompurin/roblox-free-ugc-sniper#how-to-use)
+5. [Credits](https://github.com/ppompompurin/roblox-free-ugc-sniper#Credits)
 
 ## [Premium](https://discord.gg/XX6qtbvkHG)
-If you aren't happy with the preformance of this UGC Sniper or want a limited sniper. You can buy the premium limited sniper. This sniper has way more functionality because for just $10
+If you aren't happy with the performance of this UGC Sniper or want a limited sniper. You can buy the premium version of this limited sniper for $10 in the discord server.
 
 ## Features
 * Buying the free limited
