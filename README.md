@@ -3,12 +3,12 @@
 A free UGC sniper bot for Robox that snipes free UGC limiteds.
 
 ## Credits
-1. J3ldo for being the original guy
-2. noahrepublic for forking J3ldo's version and making it better.
-3. duckyy for for helping with this project.
-4. slourn for making this possible and helping me through hard times, and doing anything to keep me safe.
-5. drake727 for helping us get started.
-6. pompompurin for modifying noah's code.
+1. J3ldo👑 for being the original guy.
+2. noahrepublic😎 for forking J3ldo's version and making it better.
+3. duckyy🦆 for for helping with this project.
+4. slourn❤️ for making this possible and helping me through hard times, and doing anything to keep me safe.
+5. drake727👷 for helping us get started.
+6. pompompurin🐈 for modifying noah's code.
 
 ## Table of contents
 1. [Table of contents](https://github.com/ppompompurin/roblox-free-ugc-sniper#Table-of-contents)
