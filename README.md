@@ -1,12 +1,14 @@
 
 # [UGC Sniper]((https://discord.gg/3Uvcf8d9aY))
 A free UGC sniper bot for roblox that sniper free limiteds.
-Special thanks to 
-J3ldo for being the original guy
-noahrepublic for forking J3ldo's version and making it better.
-duckyy for for helping with this project.
-slourn for making this possible and helping me through hard times
-pompompurin for modifying noah's code.
+
+## Credits
+1. J3ldo for being the original guy
+2. noahrepublic for forking J3ldo's version and making it better.
+3. duckyy for for helping with this project.
+4. slourn for making this possible and helping me through hard times, and doing anything to keep me safe.
+5. drake727 for helping us get started.
+6. pompompurin for modifying noah's code.
 
 ## Table of contents
 1. [Table of contents](https://github.com/ppompompurin/roblox-free-ugc-sniper#Table-of-contents)
