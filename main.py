@@ -49,7 +49,7 @@ try:
 
     cookie = str(winreg.QueryValueEx(robloxcom, ".ROBLOSECURITY")[0]) 
 except:
-    print(">> [LOGS] Failed to autodetect a cookie.")
+    print(">> [LOGS] FAILED TO AUTODETECT A COOKIE")
     cookie = None
 
 
@@ -129,9 +129,10 @@ def buy(json, itemid, productid):
                       json={"items": [{"itemType": "Asset", "id": int(limited)}]},
                       headers={"x-csrf-token": x_token}, cookies={".ROBLOSECURITY": cookie}).json()["data"][0]
         except:
-            info = {"unitsAvailableForConsumption": 1}
+            print(f">> [LOGS] FAILED GETTING STOCK {info.text} - {info.reason}")
+            left = 0
 
-        if info["unitsAvailableForConsumption"] == 0:
+        if left == 0:
             print(">> [LOGS] COULD NOT BUY IN TIME SADLY")
             return
 
