@@ -1,5 +1,5 @@
 
-# [UGC Sniper]((https://discord.gg/3Uvcf8d9aY))
+# [Free UGC Limited Sniper]((https://discord.gg/3Uvcf8d9aY))
 A free UGC sniper bot for Robox that snipes free UGC limiteds.
 
 ## Credits
