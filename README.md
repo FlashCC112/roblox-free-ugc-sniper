@@ -30,7 +30,7 @@ If you aren't happy with the performance of this UGC Sniper or want a limited sn
 ## How to use
 
 ### Step 1
-Install python. You first need to install python you can do this [here](https://www.python.org/download). After downloading python you need to install the requests library. You can do this by typing "pip install requests" in the command prompt or if that doesnt work "python -m pip install requests". 
+Install python. You first need to install python you can do this [here](https://www.python.org/download). MAKE SURE TO SELECT "Add python 3.9 to PATH" or it won't work! After downloading open the file "runmefirstplease.bat" to install the required libraries, then proceed to Step 2.
 
 ### Step 2
 Click on code > download zip. This will download the program as a .zip file after that unpack the installed limited sniper into a directory of choice.
