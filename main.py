@@ -31,7 +31,7 @@ import colorama
 os.system("color 02")
 os.system("title made with love by noahrepublic, J3LDO, slourn, and pompompurin")
 
-with open("limiteds.txt", "r") as f:
+with open("limiteds.txt", encoding='utf-8') as f:
     limiteds = f.read().replace(" ", "").split(",")
 
 with open("config.json", "r") as f:
