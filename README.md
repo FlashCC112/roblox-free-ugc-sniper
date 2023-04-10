@@ -1,19 +1,21 @@
 
 # [UGC Sniper]((https://discord.gg/3Uvcf8d9aY))
 A free UGC sniper bot for roblox that sniper free limiteds.
-Special thanks to Poochy#3083 for helping with this project.
+Special thanks to 
+J3ldo for being the original guy
+noahrepublic for forking J3ldo's version and making it better.
+duckyy for for helping with this project.
+slourn for making this possible and helping me through hard times
+pompompurin for modifying noah's code.
 
 ## Table of contents
-1. [Table of contents](https://github.com/J3ldo/UGC-Sniper#Table-of-contents)
-2. [Premium](https://github.com/J3ldo/UGC-Sniper#Premium)
-3. [Features](https://github.com/J3ldo/UGC-Sniper#features)
-4. [How to use](https://github.com/J3ldo/UGC-Sniper#how-to-use)
+1. [Table of contents](https://github.com/ppompompurin/roblox-free-ugc-sniper#Table-of-contents)
+2. [Premium](https://github.com/ppompompurin/roblox-free-ugc-sniper#Premium)
+3. [Features](https://github.com/ppompompurin/roblox-free-ugc-sniper#features)
+4. [How to use](https://github.com/ppompompurin/roblox-free-ugc-sniper#how-to-use)
 
-## [Premium](https://discord.gg/3Uvcf8d9aY)
-If you aren't happy with the preformance of this UGC Sniper or want a limited sniper. You can buy the premium limited sniper. This sniper has way more functionality because for just €5,- you can get the following features.
-  
-Search for free limiteds and checks prices way faster.
-Search items based on RAP, Projection detection, alt account support, buying every limited with a price under 50 robux, blacklisted keywords, checking 119 limiteds in 0,75 seconds (no proxies), dynamic pricing of limited, and way more. 
+## [Premium](https://discord.gg/XX6qtbvkHG)
+If you aren't happy with the preformance of this UGC Sniper or want a limited sniper. You can buy the premium limited sniper. This sniper has way more functionality because for just $10
 
 ## Features
 * Buying the free limited
@@ -31,7 +33,7 @@ Install python. You first need to install python you can do this [here](https://
 Click on code > download zip. This will download the program as a .zip file after that unpack the installed limited sniper into a directory of choice.
  
 ### Step 3
-You need to put in your roblox cookie into the cookie.txt file.
+You need to put in your roblox cookie into the config.json file.
 
 First install this repository: https://github.com/J3ldo/Roblox-Token-Fetcher  
 Then open google chrome and click on the extensions button > manage extensions > load unpacked  
@@ -39,10 +41,17 @@ Select the repository directory and click on the extension icon now just copy th
 And your done!
 
 ### Step 4
+You need to put in your discord webhook into the config.json file.
+
+(if you want to skip this step, go to step 5 and leave the discordWebhook in config.json as it is)
+
+
+### Step 5
 Put in the desired limiteds in limiteds.txt and seperate them with a comma.
 It should look like this
 Asset1, Asset2, Asset3
+You can also just put the ID if you want to do 1
 
 ### Step 5
-Just run the main.py file and you will see it starting to check if its free.
+Just run the start.bat file and you will see it starting to check if its free.
 That's all, hope you get some good deals and some good robux, if you do make sure to star this repository.
