@@ -173,7 +173,8 @@ while 1:
         time.sleep(cooldown-taken)
 
     os.system("cls")
-    print(">> [CREDITS] Made with love by noahrepublic, J3ldo, slourn, pompompurin, and duckyy. \n https://discord.gg/XX6qtbvkHG")
+    print(">> [CREDITS] Made with love by noahrepublic, J3ldo, slourn, pompompurin, and duckyy.")
+    print(">> [DISCORD] https://discord.gg/XX6qtbvkHG")
     print("Also to the people who hacked our server: your a bitch :)")
     print(">> [LOGS] CHECK DONE\n"
           f"TIME TAKEN: {round(time.perf_counter()-start, 3)}\n"
