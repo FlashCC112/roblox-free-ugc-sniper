@@ -34,20 +34,9 @@ os.system("title made with love by noahrepublic, J3LDO, slourn, and pompompurin"
 with open("limiteds.txt", encoding='utf-8') as f:
     limiteds = f.read().replace(" ", "").split(",")
 
-with open("config.json", "r") as f:
+with open("config.json", "r", encoding="utf-8") as f:
     config = json.load(f)
     discordWebhook = config['discordWebhook']
-
-print(f">> [LOGS] CHECKING FOR UPDATES")
-script = r.get("https://raw.githubusercontent.com/ppompompurin/roblox-free-ugc-sniper/main/main.py").text
-with open("main.py", "r") as f:
-    if f.read() != script:
-        print("Updating...")
-        with open("main.py", "w") as f:
-            f.write(script)
-            input("Updated please reopen the script")
-            exit(0)
-
 
 
 try:
